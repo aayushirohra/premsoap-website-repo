@@ -36,7 +36,7 @@ $("div").on("click",function(){
 });
 
 $(".card").on("mouseenter",function(){
-	$(this).css("box-shadow","0 4px 8px 0 rgba(23, 162, 186, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)");
+	$(this).css("box-shadow","0 4px 10px 0 rgba(23, 162, 186, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)");
 });
 
 $(".card").on("mouseleave",function(){
